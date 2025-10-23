@@ -1,0 +1,4 @@
+Ho imparato a creare una repository in remoto
+clonare la repository in locale 
+e portare le modifiche fatte nel locale in remoto
+e viceversa
